@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+h1 {
+    font-size: 30px;
+    color: #d9534f;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    color: #0275d8;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.intro {
+    font-weight: bold;
+}
+
+.rabies-image {
+    display: block;
+    margin: 20px auto;
+    width: 500px;
+    height: 400px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.read-more {
+    display: block;
+    width: 200px;
+    text-align: center;
+    background-color: #d9534f;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 20px auto;
+}
+
+.read-more:hover {
+    background-color: #c9302c;
+}
